@@ -1,6 +1,0 @@
-Milo :
-	-Design Perso principale
-	-Design générale des 6 niveau
-
-Anatole: 
-	- commencer a créér un deplacement en vue de dessu 
